@@ -8,7 +8,7 @@ body {
 section {
     padding: 0 calc(24px + (120 - 24)*((100vw - 375px) / (1280 - 375)));
 }
-section .first {
+.first {
     padding-top: 40px;
     background-image: url('./image/html_css_js\ 1.png');
     background-repeat: no-repeat;
